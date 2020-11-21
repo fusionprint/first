@@ -1,1 +1,1 @@
-First codes in python, trying to learn
+Mini testes para o aprendizado em python.
